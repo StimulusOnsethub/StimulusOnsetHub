@@ -29,7 +29,7 @@ https://www.amazon.com/Daughter-Cards-Boards-Stereo-Breakout/dp/B00HKID282/
 https://www.amazon.com/Cerrxian-Terminal-Headphone-Converter-Adapter/dp/B06WRRGYMM/
 
 Rotary Encoder Modules\
-https://www.amazon.com/Cylewet-Encoder-15×16-5-Arduino-CYT1062/dp/B06XQTHDRR/
+https://www.amazon.com/Cylewet-Encoder-15Ã—16-5-Arduino-CYT1062/dp/B06XQTHDRR/
 
 Outputs
 ==========
