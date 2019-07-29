@@ -22,7 +22,7 @@ Table of Contents
 
 Inputs
 ==========
-3.5mm Female Audio Jack Breakout Board(https://www.amazon.com/Daughter-Cards-Boards-Stereo-Breakout/dp/B00HKID282/)
+[3.5mm Female Audio Jack Breakout Board](https://www.amazon.com/Daughter-Cards-Boards-Stereo-Breakout/dp/B00HKID282/)
 
 3.5mm Male Audio Jack Breakout Board\
 https://www.amazon.com/Cerrxian-Terminal-Headphone-Converter-Adapter/dp/B06WRRGYMM/
