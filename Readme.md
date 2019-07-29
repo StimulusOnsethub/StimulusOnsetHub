@@ -53,6 +53,8 @@ Low budget
 
 High budget
 ----------
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=stimulusonset-20&marketplace=amazon&region=US&placement=B00A4LKH2G&asins=B00A4LKH2G&linkId=20471c1792c6b3d4145288eca6c499bf&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
+    </iframe>
     
 <a target="_blank" href="https://www.amazon.com/gp/product/B00A4LKH2G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A4LKH2G&linkCode=as2&tag=stimulusonset-20&linkId=8eede294bcce435751f7fb886e955f47">Tektronix TDS2014C 100 MHz, 4 Channel, Analog Oscilloscope, 2 GS/s Sampling,</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=stimulusonset-20&l=am2&o=1&a=B00A4LKH2G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
