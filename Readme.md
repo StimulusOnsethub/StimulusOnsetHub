@@ -1,5 +1,7 @@
 Here is a formatted version of this ReadMe:  [https://stimulusonsethub.github.io/StimulusOnsetHub/](https://stimulusonsethub.github.io/StimulusOnsetHub/)
 
+Here is a link to the Github page source:  [https://github.com/StimulusOnsethub/StimulusOnsetHub](https://github.com/StimulusOnsethub/StimulusOnsetHub)
+
 Here is a cheatsheet for how to write github markdown files:
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
