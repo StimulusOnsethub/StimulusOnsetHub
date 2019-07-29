@@ -1,4 +1,4 @@
-Here is a formatted version of the website.[https://stimulusonsethub.github.io/StimulusOnsetHub/](https://stimulusonsethub.github.io/StimulusOnsetHub/)
+Here is a formatted version of this ReadMe:  [https://stimulusonsethub.github.io/StimulusOnsetHub/](https://stimulusonsethub.github.io/StimulusOnsetHub/)
 
 Here is a cheatsheet for how to write github markdown files:
 
