@@ -60,7 +60,7 @@ High budget
 Tools
 ==========
 
-[Adafruit Solid Core Hook-up Wire, 22AWG](https://www.amazon.com/Hook-up-Wire-Spool-Set-22AWG/dp/B01LZ6078M/)
+[Adafruit 22AWG Solid Core Hook-up Wire](https://www.amazon.com/Hook-up-Wire-Spool-Set-22AWG/dp/B01LZ6078M/)
 
 [Wago Lever-Nut Assortment Pack](https://www.amazon.com/Wago-Lever-Nut-Assortment-Pocket-Pack/dp/B01N0LRTXZ/)
 
