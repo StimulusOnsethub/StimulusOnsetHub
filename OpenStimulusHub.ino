@@ -1,8 +1,4 @@
 // Copyright @ 2019 Jacob G. Martin and Charles E. Davis.  All Rights Reserved.
-
-
-// Redistribution and use in source and binary forms, with or without
-// modification, are strictly prohibited.
 //
 // The names of Jacob G. Martin and Charles E. Davis may not be used to endorse or promote products
 // derived from or associated with this software without specific prior written permission.
