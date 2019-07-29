@@ -28,7 +28,7 @@ Inputs
 [3.5mm Male Audio Jack Breakout Board](https://www.amazon.com/Cerrxian-Terminal-Headphone-Converter-Adapter/dp/B06WRRGYMM/)
 
 [Rotary Encoder Modules](https://www.amazon.com/Cylewet-Encoder-15×16-5-Arduino-CYT1062/dp/B06XQTHDRR/)
-)
+
 Outputs
 ==========
 
