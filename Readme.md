@@ -49,9 +49,9 @@ Oscilloscopes
 
 Low budget
 ----------
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00A4LKH2G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A4LKH2G&linkCode=undefined&tag=stimulusonset-20&linkId=cab19a60f19c9d94bb3134d10fdc12f9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00A4LKH2G&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=stimulusonset-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=stimulusonset-20&l=am2&o=1&a=B00A4LKH2G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" href="https://www.amazon.com/gp/product/B00A4LKH2G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A4LKH2G&linkCode=as2&tag=stimulusonset-20&linkId=8eede294bcce435751f7fb886e955f47">Tektronix TDS2014C 100 MHz, 4 Channel, Analog Oscilloscope, 2 GS/s Sampling,</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=stimulusonset-20&l=am2&o=1&a=B00A4LKH2G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-[Tektronix TBS1104](https://www.amazon.com/Tektronix-TBS1104-Oscilloscope-Sampling-Warranty/dp/B00I9QOH1U/)
+[Tektronix TBS1104](https://www.amazon.com/gp/product/B00A4LKH2G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A4LKH2G&linkCode=as2&tag=stimulusonset-20&linkId=8eede294bcce435751f7fb886e955f47)
 
 High budget
 ----------
