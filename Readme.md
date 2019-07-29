@@ -55,9 +55,6 @@ Low budget
 
 High budget
 ----------
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=stimulusonset-20&marketplace=amazon&region=US&placement=B00A4LKH2G&asins=B00A4LKH2G&linkId=20471c1792c6b3d4145288eca6c499bf&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
-    </iframe>
     
 [Tektronix TDS2014C](https://www.amazon.com/Tektronix-TDS2014C-Channel-Oscilloscope-Sampling/dp/B00A4LKH2G/)
 
