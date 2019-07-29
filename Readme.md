@@ -31,6 +31,7 @@ Inputs
 )
 Outputs
 ==========
+
 [DB25 Breakout Board](https://www.amazon.com/Electronics-Salon-Female-Breakout-Terminal-Connector/dp/B0179FC7G8/)
 
 [DB37 Breakout Board](https://www.amazon.com/Electronics-Salon-Female-Breakout-Terminal-Connector/dp/B0179FOUQI/)
@@ -47,14 +48,17 @@ Oscilloscopes
 
 Low budget
 ----------
+
 [Tektronix TBS1104](https://www.amazon.com/Tektronix-TBS1104-Oscilloscope-Sampling-Warranty/dp/B00I9QOH1U/)
 
 High budget
 ----------
+
 [Tektronix TDS2014C](https://www.amazon.com/Tektronix-TDS2014C-Channel-Oscilloscope-Sampling/dp/B00A4LKH2G/)
 
 Tools
 ==========
+
 [Adafruit Solid Core Hook-up Wire, 22AWG](https://www.amazon.com/Hook-up-Wire-Spool-Set-22AWG/dp/B01LZ6078M/)
 
 [Wago Lever-Nut Assortment Pack](https://www.amazon.com/Wago-Lever-Nut-Assortment-Pocket-Pack/dp/B01N0LRTXZ/)
