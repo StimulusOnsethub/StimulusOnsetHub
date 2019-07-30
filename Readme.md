@@ -19,6 +19,10 @@ Table of Contents
    * [General equipment](#general-equipment)
      * [Screens](#screens)
      * [GPUs](#gpus)
+     * [CPUs](#cpus)
+     * [Power supplies](#power-supplies)
+     * [Cases](#cases)
+     * [Disk drives](#disk-drives)
      * [Keyboards](#keyboard)
      * [Shielding](#shielding)
      * [Operating Systems](#operating-systems)
@@ -97,6 +101,15 @@ Screens
 [240hz Asus, 1ms, GSYNC, ULMB](https://amzn.to/2K1x2OA)
 
 GPUs
+==========
+
+CPUs
+==========
+
+Power supplies
+==========
+
+Cases
 ==========
 
 Keyboards
