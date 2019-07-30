@@ -1,7 +1,9 @@
+
 Here is a formatted version of this ReadMe:  [https://stimulusonsethub.github.io/StimulusOnsetHub/](https://stimulusonsethub.github.io/StimulusOnsetHub/)
 
 Here is a link to the Github page source:  [https://github.com/StimulusOnsethub/StimulusOnsetHub](https://github.com/StimulusOnsethub/StimulusOnsetHub)
 
+[A paper describing this project is freely available on the biorxiv here](https://www.biorxiv.org)
 
 Table of Contents
 =================
