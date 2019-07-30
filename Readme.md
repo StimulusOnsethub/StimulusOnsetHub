@@ -97,19 +97,22 @@ Cabling
 # General equipment
 Here is a list of some computer equipment that will provide good timing for psychophysics experiments.
 
-
 Screens
 ==========
-[240hz Asus, 1ms, GSYNC, ULMB](https://amzn.to/2K1x2OA)
+[ASUS ROG Swift PG258Q 24.5” Gaming Monitor Full HD 1080p 1ms 240Hz DP HDMI Eye Care G-SYNC Esports ULMB](https://amzn.to/2K1x2OA)
 
 GPUs
 ==========
+[EVGA GeForce RTX 2080 Ti FTW3 Ultra Gaming, 11GB GDDR6, iCX2 & RGB LED Graphics Card 11G-P4-2487-KR](https://amzn.to/2LROsz6)
+
+[EVGA GeForce RTX 2070 XC Gaming, 8GB GDDR6, Dual HDB Fans & RGB LED Graphics Card 08G-P4-2172-KR, Real Boost Clock: 1710 MHz](https://amzn.to/2LQasuh)
 
 CPUs
 ==========
 
 Power supplies
 ==========
+[CORSAIR HXi Series, HX1200i, 1200 Watt, 80+ Platinum Certified, Fully Modular - Digital Power Supply](https://amzn.to/2LRlGyU)
 
 Cases
 ==========
