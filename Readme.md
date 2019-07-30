@@ -7,14 +7,14 @@ Table of Contents
 =================
 
    * [StimulusOnsetHub](#stimulusonsethub)
-   * [Inputs](#inputs)
-   * [Outputs](#outputs)
-   * [Detectors](#detectors)
-   * [Oscilloscopes](#oscilloscopes)
-      * [Low budget](#low-budget)
-      * [High budget](#high-budget)
-   * [Tools](#tools)
-   * [Arduino](#arduino)
+     * [Inputs](#inputs)
+     * [Outputs](#outputs)
+     * [Detectors](#detectors)
+     * [Oscilloscopes](#oscilloscopes)
+        * [Low budget](#low-budget)
+        * [High budget](#high-budget)
+     * [Tools](#tools)
+     * [Arduino](#arduino)
 
 # StimulusOnsetHub
 
