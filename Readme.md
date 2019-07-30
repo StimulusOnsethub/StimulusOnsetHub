@@ -15,6 +15,8 @@ Table of Contents
         * [High budget](#high-budget)
      * [Tools](#tools)
      * [Arduino](#arduino)
+   * [Psychophysics computer equipment](#psychophysics)
+     * [Screens](#screens)
 
 # StimulusOnsetHub
 
@@ -72,3 +74,13 @@ Arduino
 [Arduino Starter Kit](https://www.amazon.com/Arduino-Starter-Kit-English-Official/dp/B009UKZV0A/)
 
 [1602 I2C LCD Module](https://www.amazon.com/SunFounder-Serial-Module-Display-Arduino/dp/B019K5X53O/)
+
+
+# Psychophysics computer equipment
+
+Here is a list of some computer equipment that will provide good timing for psychophysics experiments.
+
+
+Screens
+==========
+[240hz Asus](https://amzn.to/2K1x2OA)
