@@ -15,7 +15,7 @@ Table of Contents
         * [High budget](#high-budget)
      * [Tools](#tools)
      * [Arduino](#arduino)
-   * [Psychophysics computer equipment](#psychophysics)
+   * [Psychophysics computer equipment](#psychophysics-computer-equipment)
      * [Screens](#screens)
 
 # StimulusOnsetHub
@@ -83,4 +83,4 @@ Here is a list of some computer equipment that will provide good timing for psyc
 
 Screens
 ==========
-[240hz Asus](https://amzn.to/2K1x2OA)
+[240hz Asus, 1ms, GSYNC, ULMB](https://amzn.to/2K1x2OA)
