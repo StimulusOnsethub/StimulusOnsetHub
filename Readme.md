@@ -144,7 +144,7 @@ Software
 
 Books
 ==========
-[Introduction to event related potential techniques - Steven H. Luck](https://www.amazon.com/Introduction-Event-Related-Potential-Technique-Bradford/dp/0262525852/ref=as_li_ss_tl?keywords=introduction+to+eeg+luck&qid=1564614189&s=gateway&sr=8-1&linkCode=sl1&tag=stimulusonset-20&linkId=f0f85a82ada6183b780cc818b976caab)
+[Introduction to event related potential techniques - Steven J. Luck](https://www.amazon.com/Introduction-Event-Related-Potential-Technique-Bradford/dp/0262525852/ref=as_li_ss_tl?keywords=introduction+to+eeg+luck&qid=1564614189&s=gateway&sr=8-1&linkCode=sl1&tag=stimulusonset-20&linkId=f0f85a82ada6183b780cc818b976caab)
 
 Manuals
 ==========
