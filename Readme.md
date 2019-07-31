@@ -1,4 +1,4 @@
-bpp
+
 Here is a formatted version of this ReadMe:  [https://stimulusonsethub.github.io/StimulusOnsetHub/](https://stimulusonsethub.github.io/StimulusOnsetHub/)
 
 Here is a link to the Github page source:  [https://github.com/StimulusOnsethub/StimulusOnsetHub](https://github.com/StimulusOnsethub/StimulusOnsetHub)
@@ -11,8 +11,8 @@ Table of Contents
    * [StimulusOnsetHub](#stimulusonsethub)
      * [Inputs](#inputs)\
         * [Photodiode](#photodiode)
-        * [Microphone](#micropants)
-        * [User inputs](#user_inputs)
+        * [Microphone](#microphone)
+        * [User inputs](#user-inputs)
      * [Outputs](#outputs)
      * [Detectors](#detectors)
      * [Oscilloscopes](#oscilloscopes)
