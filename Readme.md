@@ -1,4 +1,4 @@
-
+bpp
 Here is a formatted version of this ReadMe:  [https://stimulusonsethub.github.io/StimulusOnsetHub/](https://stimulusonsethub.github.io/StimulusOnsetHub/)
 
 Here is a link to the Github page source:  [https://github.com/StimulusOnsethub/StimulusOnsetHub](https://github.com/StimulusOnsethub/StimulusOnsetHub)
@@ -14,7 +14,7 @@ Table of Contents
      * [Detectors](#detectors)
      * [Oscilloscopes](#oscilloscopes)
         * [Low budget](#low-budget)
-        * [High budget](#high-budget)
+        * [High budget](#high-budget)bpp
      * [Tools](#tools)
      * [Arduino](#arduino)
      * [Cabling](#cabling)
@@ -131,6 +131,7 @@ Software
 
 Books
 ==========
+<a href="https://www.amazon.com/Introduction-Event-Related-Potential-Technique-Bradford/dp/0262525852/ref=as_li_ss_il?keywords=introduction+to+eeg+luck&qid=1564614189&s=gateway&sr=8-1&linkCode=li2&tag=stimulusonset-20&linkId=ab375749839e15cec041950ef9b21366" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0262525852&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=stimulusonset-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=stimulusonset-20&l=li2&o=1&a=0262525852" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Manuals
 ==========
