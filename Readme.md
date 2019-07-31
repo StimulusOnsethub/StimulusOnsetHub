@@ -136,6 +136,7 @@ Keyboards
 
 Shielding
 ==========
+[TitanRF Faraday Fabric // EMI & RFID Shielding/Cell, WiFi & Bluetooth Blocking/Military Grade Shielding Fabric (44"W x 36" L / 11sq ft / 1.22 sq yds) + Free 12" L Conductive Adhesive Tape ](https://www.amazon.com/Shielding-Bluetooth-MILITARY-SHIELDING-CONDUCTIVE/dp/B01M294MGK/ref=as_li_ss_tl?keywords=faraday+cage&qid=1564616329&s=gateway&sr=8-4&linkCode=sl1&tag=stimulusonset-20&linkId=dc5c49026c24140199bbadcfecbfc4ac)
 
 Operating systems
 ==========
