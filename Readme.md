@@ -129,6 +129,7 @@ Power supplies
 
 Cases
 ==========
+[NZXT H700i - ATX Mid-Tower PC Gaming Case - CAM-Powered Smart Device - RGB and Fan Control - Tempered Glass Panel - Enhanced Cable Management System – Water-Cooling Ready - White/Black ](https://www.amazon.com/Mid-Tower-Computer-digital-lighting-CA-H700W-WB/dp/B075B91T7Q/ref=as_li_ss_tl?keywords=quiet+case+atx&qid=1564616215&s=gateway&sr=8-12&linkCode=sl1&tag=stimulusonset-20&linkId=ac12af40f3b5c2dd8fba79b6914f5e58)
 
 Keyboards
 ==========
