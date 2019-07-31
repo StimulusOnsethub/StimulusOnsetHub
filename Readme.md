@@ -9,7 +9,7 @@ Table of Contents
 =================
 
    * [StimulusOnsetHub](#stimulusonsethub)
-     * [Inputs](#inputs)\
+     * [Inputs](#inputs)
         * [Photodiode](#photodiode)
         * [Microphone](#microphone)
         * [User inputs](#user-inputs)
