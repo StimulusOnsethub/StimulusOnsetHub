@@ -48,7 +48,7 @@ Inputs
 
 Photodiode
 ----------
-
+[Gravity:Digital RED LED Light Module](https://www.amazon.com/Gravity-brightness-Compatible-expansion-connection/dp/B07CDQTFTD/ref=as_li_ss_tl?keywords=light+detector+df+robot&qid=1564616503&s=gateway&sr=8-1&linkCode=sl1&tag=stimulusonset-20&linkId=ef9724a826e2771ff7075fe37aafd257)
 
 Microphone
 ----------
