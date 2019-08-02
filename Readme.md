@@ -3,7 +3,9 @@ Here is a formatted version of this ReadMe:  [https://stimulusonsethub.github.io
 
 Here is a link to the Github page source:  [https://github.com/StimulusOnsethub/StimulusOnsetHub](https://github.com/StimulusOnsethub/StimulusOnsetHub)
 
+"Stimulus Onset Hub: An open-source, low latency, and opto-isolated trigger box for neuroscientific research replicability and beyond."
 [A paper describing this project is freely available on the biorxiv here](https://www.biorxiv.org/content/10.1101/721803v1)
+[https://www.biorxiv.org/content/10.1101/721803v1](https://www.biorxiv.org/content/10.1101/721803v1)
 
 Table of Contents
 =================
@@ -39,7 +41,9 @@ Table of Contents
 
 # StimulusOnsetHub
 
+"Stimulus Onset Hub: An open-source, low latency, and opto-isolated trigger box for neuroscientific research replicability and beyond."
 [A paper describing this project is freely available on the biorxiv here](https://www.biorxiv.org/content/10.1101/721803v1)
+[https://www.biorxiv.org/content/10.1101/721803v1](https://www.biorxiv.org/content/10.1101/721803v1)
 
 
 Inputs
