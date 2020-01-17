@@ -155,7 +155,7 @@ Books
 Manuals
 ==========
 
-Additional Photos
+# Additional Photos
 ==========
 ![Image description](https://raw.githubusercontent.com/StimulusOnsethub/StimulusOnsetHub/master/ComponentMounts.jpg)
 ![Image description](https://raw.githubusercontent.com/StimulusOnsethub/StimulusOnsetHub/master/ExperimentSetup01.jpg)
