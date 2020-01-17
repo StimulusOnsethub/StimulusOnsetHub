@@ -10,7 +10,6 @@ Table of Contents
 =================
 
    * [StimulusOnsetHub](#stimulusonsethub)
-     * [Additional Photos](#additionalphotos)
      * [Inputs](#inputs)
         * [Photodiode](#photodiode)
         * [Microphone](#microphone)
@@ -36,6 +35,7 @@ Table of Contents
      * [Software](#software)
      * [Books](#books)
      * [Manuals](#manuals)
+   * [Additional Photos](#additionalphotos)
 
      
 
