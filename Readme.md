@@ -45,12 +45,6 @@ Table of Contents
 [A paper describing this project is freely available on the biorxiv here](https://www.biorxiv.org/content/10.1101/721803v1)
 [https://www.biorxiv.org/content/10.1101/721803v1](https://www.biorxiv.org/content/10.1101/721803v1)
 
-Additional Photos
-==========
-![Image description](https://raw.githubusercontent.com/StimulusOnsethub/StimulusOnsetHub/master/ComponentMounts.jpg)
-![Image description](https://raw.githubusercontent.com/StimulusOnsethub/StimulusOnsetHub/master/ExperimentSetup01.jpg)
-![Image description](https://raw.githubusercontent.com/StimulusOnsethub/StimulusOnsetHub/master/ExperimentSetup02.jpg)
-![Image description](https://raw.githubusercontent.com/StimulusOnsethub/StimulusOnsetHub/master/ExperimentSetup03.jpg)
 
 Inputs
 ==========
@@ -160,3 +154,10 @@ Books
 
 Manuals
 ==========
+
+Additional Photos
+==========
+![Image description](https://raw.githubusercontent.com/StimulusOnsethub/StimulusOnsetHub/master/ComponentMounts.jpg)
+![Image description](https://raw.githubusercontent.com/StimulusOnsethub/StimulusOnsetHub/master/ExperimentSetup01.jpg)
+![Image description](https://raw.githubusercontent.com/StimulusOnsethub/StimulusOnsetHub/master/ExperimentSetup02.jpg)
+![Image description](https://raw.githubusercontent.com/StimulusOnsethub/StimulusOnsetHub/master/ExperimentSetup03.jpg)
